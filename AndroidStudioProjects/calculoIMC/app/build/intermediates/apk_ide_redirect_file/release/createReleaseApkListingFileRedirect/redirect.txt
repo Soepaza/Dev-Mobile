@@ -1,0 +1,2 @@
+#- File Locator -
+listingFile=../../../../../../../../Desktop/apks/appimc/apkimc/release/output-metadata.json

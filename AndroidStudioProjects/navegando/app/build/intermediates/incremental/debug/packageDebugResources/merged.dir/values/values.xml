@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange">#FF4F18</color>
+    <color name="preto">#000000</color>
+    <color name="roxo">#6329CA</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">firstApp</string>
+    <style name="Base.Theme.FirstApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.FirstApp" parent="Base.Theme.FirstApp"/>
+</resources>

@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-xxxhdpi_imagemimc_round.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-xxxhdpi/imagemimc_round.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-xxhdpi_imagemimc_round.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-xxhdpi/imagemimc_round.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-xxxhdpi_imagemimc_foreground.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-xxxhdpi/imagemimc_foreground.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-mdpi_imagemimc_foreground.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-mdpi/imagemimc_foreground.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-xhdpi_imagemimc.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-xhdpi/imagemimc.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/drawable_baseline_android_24.xml.flat",
+        "source": "com.example.calculoimc.app-main-32:/drawable/baseline_android_24.xml"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/drawable_imcimagem.png.flat",
+        "source": "com.example.calculoimc.app-main-32:/drawable/imcimagem.png"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.calculoimc.app-main-32:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/drawable_imagem3.jpeg.flat",
+        "source": "com.example.calculoimc.app-main-32:/drawable/imagem3.jpeg"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/layout_activity_resultadoimc.xml.flat",
+        "source": "com.example.calculoimc.app-main-32:/layout/activity_resultadoimc.xml"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-anydpi-v26_imagemimc_round.xml.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-anydpi-v26/imagemimc_round.xml"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-xxxhdpi_imagemimc.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-xxxhdpi/imagemimc.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/layout_activity_tabelaimc.xml.flat",
+        "source": "com.example.calculoimc.app-main-32:/layout/activity_tabelaimc.xml"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-hdpi_imagemimc_foreground.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-hdpi/imagemimc_foreground.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-mdpi_imagemimc.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-mdpi/imagemimc.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.calculoimc.app-main-32:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/layout_activity_main.xml.flat",
+        "source": "com.example.calculoimc.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.calculoimc.app-main-32:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-hdpi_imagemimc.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-hdpi/imagemimc.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-xxhdpi_imagemimc_foreground.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-xxhdpi/imagemimc_foreground.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-mdpi_imagemimc_round.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-mdpi/imagemimc_round.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-xhdpi_imagemimc_round.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-xhdpi/imagemimc_round.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.calculoimc.app-main-32:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-hdpi_imagemimc_round.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-hdpi/imagemimc_round.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-xxhdpi_imagemimc.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-xxhdpi/imagemimc.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.calculoimc.app-release-31:/mipmap-anydpi-v26_imagemimc.xml.flat",
+        "source": "com.example.calculoimc.app-main-32:/mipmap-anydpi-v26/imagemimc.xml"
+    }
+]
